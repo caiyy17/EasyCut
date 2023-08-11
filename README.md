@@ -11,4 +11,4 @@
 
 # autocut
 
-[](https://github.com/mli/autocut)
+[autocut](https://github.com/mli/autocut)
