@@ -1,0 +1,8 @@
+# Input files
+authkey.py
+input/*.mp3
+input/*.wav
+
+# Output files
+output/*.npy
+output/*.srt

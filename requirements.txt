@@ -1,0 +1,8 @@
+datetime
+numpy
+srt
+whisper
+librosa
+deepl
+soundfile
+ffmpeg
